@@ -11,3 +11,6 @@
 1. HTML
 2. CSS [styling and layout]
 3. JavaScript
+
+**Click [here](https://naseela99.github.io/FizzBuzz/) to go to the website**
+
