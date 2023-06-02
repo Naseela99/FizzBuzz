@@ -1,0 +1,55 @@
+body{
+    background-color: black;
+}
+
+.fizbuzz, .explain{
+    background-color: rgb(146, 60, 114);
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 20px;
+}
+
+.heading{
+    padding: 30px 0px;
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+}
+
+.inp{
+    border: 2px solid rgb(255, 251, 0);
+    padding: 20px 40px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.res{
+    padding: 10px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.explain{
+    background-color: rgb(116, 106, 114);
+    height: 300px;
+
+}
+
+.ex-heading{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.ex{
+    width: 500px;
+    color: rgb(228, 228, 228);
+}
+
